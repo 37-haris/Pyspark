@@ -1,0 +1,16 @@
+[project]
+name = "my_pyspark"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "importlib>=1.0.4",
+    "jupyter>=1.1.1",
+    "kagglehub>=1.0.3",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.0",
+    "pyspark>=4.2.0",
+    "seaborn>=0.13.2",
+]

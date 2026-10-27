@@ -1,0 +1,16 @@
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local settings (JAVA_HOME etc.)
+.env
+
+# Spark / OS clutter
+spark-warehouse/
+metastore_db/
+derby.log
+.DS_Store
