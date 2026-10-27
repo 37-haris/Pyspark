@@ -2,11 +2,17 @@
 
 Hands-on workshops with **Apache Spark (PySpark)**: data exploration, joins, Spark SQL, machine learning with Spark MLlib, and a real-time data engineering pipeline.
 
+## Architecture diagram
+
+[![Architecture diagram of 37-haris/pyspark](https://gitdiagram.com/37-haris/pyspark/diagram.png)](https://gitdiagram.com/37-haris/pyspark?utm_source=readme&utm_medium=picture)
+
+## Workshops
+
 | # | Workshop | Topic | Dataset | Where |
 |---|---|---|---|---|
-| 1 | [Mushroom Classification](#workshop-1--mushroom-classification) | EDA, all join types, Spark SQL, binary classification | [UCI Mushroom (Kaggle)](https://www.kaggle.com/datasets/uciml/mushroom-classification) | `first_workshop.ipynb` |
-| 2 | [Car Evaluation](#workshop-2--car-evaluation-multiclass-classification) | Multiclass classification, imbalanced classes | [Car Evaluation](https://github.com/muttinenisairohith/Datasets/blob/6e7bec3b9cbdc25da1055472c837ef8a10f569ed/data/car_data.csv) | `second_workshop.ipynb` |
-| 3 | [Real-Time Streaming Pipeline](#workshop-3--data-engineering-end-to-end-streaming-pipeline) | Airflow, Kafka, Spark Structured Streaming, Cassandra, Docker | [Random User API](https://randomuser.me) | `data_engineering_project/` |
+| 1 | [Mushroom Classification](#workshop-1-mushroom-classification) | EDA, all join types, Spark SQL, binary classification | [UCI Mushroom (Kaggle)](https://www.kaggle.com/datasets/uciml/mushroom-classification) | `first_workshop.ipynb` |
+| 2 | [Car Evaluation](#workshop-2-car-evaluation-multiclass-classification) | Multiclass classification, imbalanced classes | [Car Evaluation](https://github.com/muttinenisairohith/Datasets/blob/6e7bec3b9cbdc25da1055472c837ef8a10f569ed/data/car_data.csv) | `second_workshop.ipynb` |
+| 3 | [Real-Time Streaming Pipeline](#workshop-3-data-engineering-end-to-end-streaming-pipeline) | Airflow, Kafka, Spark Structured Streaming, Cassandra, Docker | [Random User API](https://randomuser.me) | `data_engineering_project/` |
 
 ➡️ New here? Start with the **[Step-by-step guide](#step-by-step-guide)**.
 
